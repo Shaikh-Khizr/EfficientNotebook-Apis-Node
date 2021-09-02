@@ -1,0 +1,15 @@
+{
+  "name": "efficientnotebook-backend",
+  "version": "1.0.0",
+  "description": "EfficientNotebook - Your notebook on the cloud.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khizr Abdul Ahad Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  }
+}
